@@ -27,7 +27,7 @@ Before you begin, ensure you have the following:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/manishkmr49/E-Learning-Website
+   git clone https://github.com/manishpxl/E-Learning-Website
 
 2. Open the Project: Use your preferred text editor to open the project files.
 3. Launch the Website: Open the `index.html` file in your web browser to view the website.
